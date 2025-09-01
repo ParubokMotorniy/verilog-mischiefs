@@ -1,0 +1,2198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GPDProject version="38" oldestCompatibleVersion="32" GPDVersion="6.49.001" lastChange="1 Sep 2025 10:32:05" projectChecksumState="1" projectChecksum="5ebded9a">
+    <generalProjectSettings/>
+    <chip family="04" type="06" friendlyName="FFPGA" partNumber="83" package="33">
+        <nvmData registerLenght="12288">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 30 0 0 8 20 20 1 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 0 0 0 0 0 0 55 55 55 55 AA AA AA AA 8 8 8 8 8 8 8 8 DE 88 A1 3A 35 F5 11 66 16 5 13 8A 6D A9 45 AE 6C AA B1 A9 24 BB 71 1D 6C 60 9A F1 46 AB A1 E9 E7 59 4 F 3C FD 78 9E C8 C5 30 BE F2 4B 57 46 2 0 0 0 0 0 0 C0 0 0 0 0 0 0 0 0 B7 B0 65 49 EF AE FB B7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</nvmData>
+        <ForgeK2BramData>AABAB3ic7cK5CQAgEACwVW4E8cH6EPdfSazcwCokbUWvb47Y8y4AAAAAAAAAAAAAAAAAAADAbwcIzQJz</ForgeK2BramData>
+        <checksum crc32="0x67EDE23B" version="2"/>
+        <item id="0" caption="GPIO39 (PIN 1)">
+            <graphics pos="(-1360.00,-420.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="1" caption="GPIO0 (PIN 2)">
+            <graphics pos="(-1360.00,-310.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="2" caption="GPIO1 (PIN 3)">
+            <graphics pos="(-1360.00,-200.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="3" caption="GPIO2 (PIN 4)">
+            <graphics pos="(-1360.00,-90.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="4" caption="GPIO3 (PIN 5)">
+            <graphics pos="(-1360.00,20.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="5" caption="GPIO4 (PIN 6)">
+            <graphics pos="(-1360.00,130.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="6" caption="GPIO5 (PIN 7)">
+            <graphics pos="(-1360.00,240.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="7" caption="GPIO6 (PIN 8)">
+            <graphics pos="(-1360.00,350.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="8" caption="GPIO7 (PIN 9)">
+            <graphics pos="(-1360.00,460.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="9" caption="GPIO32 (PIN 10)">
+            <graphics pos="(-1360.00,570.00)" angle="0" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <VDDItem id="10">
+            <item id="10" caption="VDDIO0 (PIN 11)">
+                <graphics pos="(-1360.00,680.00)" angle="0" flipping="0" hidden="0" tOrigin="(20.00,10.00)"/>
+            </item>
+        </VDDItem>
+        <item id="11" caption="nRST (PIN 13)">
+            <graphics pos="(-810.00,871.78)" angle="270" flipping="0" hidden="0" tOrigin="(20.00,10.00)"/>
+        </item>
+        <item id="12" caption="nSLEEP (PIN 14)">
+            <graphics pos="(-860.00,871.78)" angle="270" flipping="0" hidden="0" tOrigin="(20.00,10.00)"/>
+        </item>
+        <item id="13" caption="GPIO33 (PIN 15)">
+            <graphics pos="(-700.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="14" caption="GPIO8 (PIN 16)">
+            <graphics pos="(-590.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="15" caption="GPIO9 (PIN 17)">
+            <graphics pos="(-480.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="16" caption="GPIO10 (PIN 18)">
+            <graphics pos="(-370.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="17" caption="GPIO11 (PIN 19)">
+            <graphics pos="(-260.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="18" caption="GPIO12 (PIN 20)">
+            <graphics pos="(-150.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="19" caption="GPIO13 (PIN 21)">
+            <graphics pos="(-40.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="20" caption="GPIO14 (PIN 22)">
+            <graphics pos="(70.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="21" caption="GPIO15 (PIN 23)">
+            <graphics pos="(180.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="22" caption="GPIO34 (PIN 24)">
+            <graphics pos="(290.00,840.00)" angle="270" flipping="2" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <VDDItem id="23">
+            <item id="23" caption="VDDC (PIN 25/48)">
+                <graphics pos="(807.78,730.00)" angle="0" flipping="1" hidden="0" tOrigin="(20.00,10.00)"/>
+            </item>
+        </VDDItem>
+        <item id="24" caption="GPIO35 (PIN 26)">
+            <graphics pos="(763.00,620.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="25" caption="GPIO16 (PIN 27)">
+            <graphics pos="(763.00,510.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="26" caption="GPIO17 (PIN 28)">
+            <graphics pos="(763.00,400.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="27" caption="GPIO18 (PIN 29)">
+            <graphics pos="(763.00,290.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="28" caption="GPIO19 (PIN 30)">
+            <graphics pos="(763.00,180.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="29" caption="GPIO20 (PIN 31)">
+            <graphics pos="(763.00,70.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="30" caption="GPIO21 (PIN 32)">
+            <graphics pos="(763.00,-40.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="31" caption="GPIO22 (PIN 33)">
+            <graphics pos="(763.00,-150.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="32" caption="GPIO23 (PIN 34)">
+            <graphics pos="(763.00,-260.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="33" caption="GPIO36 (PIN 35)">
+            <graphics pos="(763.00,-370.00)" angle="0" flipping="1" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <VDDItem id="34">
+            <item id="34" caption="VDDIO1 (PIN 36)">
+                <graphics pos="(807.78,-420.00)" angle="0" flipping="1" hidden="0" tOrigin="(20.00,10.00)"/>
+            </item>
+        </VDDItem>
+        <item id="35" caption="GPIO37 (PIN 38)">
+            <graphics pos="(223.33,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="36" caption="GPIO24 (PIN 39)">
+            <graphics pos="(111.07,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="37" caption="GPIO25 (PIN 40)">
+            <graphics pos="(-1.66,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="38" caption="GPIO26 (PIN 41)">
+            <graphics pos="(-113.28,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="39" caption="GPIO27 (PIN 42)">
+            <graphics pos="(-225.65,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="40" caption="GPIO28 (PIN 43)">
+            <graphics pos="(-336.70,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="41" caption="GPIO29 (PIN 44)">
+            <graphics pos="(-448.63,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="42" caption="GPIO30 (PIN 45)">
+            <graphics pos="(-559.08,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="43" caption="GPIO31 (PIN 46)">
+            <graphics pos="(-670.01,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="44" caption="GPIO38 (PIN 47)">
+            <graphics pos="(-783.45,-640.00)" angle="90" flipping="0" hidden="0" tOrigin="(42.00,20.00)"/>
+        </item>
+        <item id="45" caption="GND (ExpPA)">
+            <graphics pos="(-1360.00,730.00)" angle="0" flipping="2" hidden="0" tOrigin="(20.00,10.00)"/>
+        </item>
+        <item id="46" caption="FPGA Core">
+            <graphics pos="(-623.01,-112.12)" angle="0" flipping="0" hidden="0" tOrigin="(375.00,275.00)"/>
+        </item>
+        <item id="47" caption="PLL0">
+            <graphics pos="(-1047.04,250.72)" angle="0" flipping="0" hidden="0" tOrigin="(32.50,85.00)"/>
+        </item>
+        <item id="48" caption="PLL1">
+            <graphics pos="(-1047.76,441.65)" angle="0" flipping="0" hidden="0" tOrigin="(32.50,25.00)"/>
+        </item>
+        <item id="49" caption="CLK MUX0">
+            <graphics pos="(-763.16,-4.29)" angle="0" flipping="0" hidden="0" tOrigin="(30.00,75.00)"/>
+        </item>
+        <item id="50" caption="CLK MUX1">
+            <graphics pos="(-763.16,159.20)" angle="0" flipping="0" hidden="0" tOrigin="(30.00,75.00)"/>
+        </item>
+        <item id="51" caption="CLK MUX2">
+            <graphics pos="(203.99,-4.29)" angle="0" flipping="1" hidden="0" tOrigin="(30.00,75.00)"/>
+        </item>
+        <item id="52" caption="CLK MUX3">
+            <graphics pos="(203.99,159.20)" angle="0" flipping="1" hidden="0" tOrigin="(30.00,75.00)"/>
+        </item>
+        <item id="53" caption="OSC">
+            <graphics pos="(-1048.79,-210.84)" angle="0" flipping="0" hidden="0" tOrigin="(30.00,10.00)"/>
+        </item>
+        <item id="54" caption="OSC Postdivider">
+            <graphics pos="(-1050.06,-167.85)" angle="0" flipping="0" hidden="0" tOrigin="(30.00,35.00)"/>
+        </item>
+        <item id="55" caption="LAC0">
+            <graphics pos="(-599.01,525.86)" angle="0" flipping="1" hidden="0" tOrigin="(27.50,15.00)"/>
+        </item>
+        <item id="56" caption="LAC1">
+            <graphics pos="(48.24,526.81)" angle="180" flipping="2" hidden="0" tOrigin="(27.50,15.00)"/>
+        </item>
+        <item id="57" caption="CRC Ctrl">
+            <graphics pos="(25.07,-416.12)" angle="0" flipping="0" hidden="1" tOrigin="(25.00,40.00)"/>
+        </item>
+        <item id="58" caption="BRAM0">
+            <graphics pos="(-528.61,-248.19)" angle="0" flipping="0" hidden="0" tOrigin="(92.50,25.00)"/>
+        </item>
+        <item id="59" caption="BRAM1">
+            <graphics pos="(-497.76,525.79)" angle="0" flipping="2" hidden="0" tOrigin="(92.50,25.00)"/>
+        </item>
+        <item id="60" caption="BRAM2">
+            <graphics pos="(-152.56,-248.19)" angle="180" flipping="2" hidden="0" tOrigin="(92.50,25.00)"/>
+        </item>
+        <item id="61" caption="BRAM3">
+            <graphics pos="(-183.11,526.81)" angle="180" flipping="0" hidden="0" tOrigin="(92.50,25.00)"/>
+        </item>
+        <item id="62" caption="AES128 Config">
+            <graphics pos="(-273.75,-416.12)" angle="0" flipping="0" hidden="1" tOrigin="(25.00,40.00)"/>
+        </item>
+        <item id="63" caption="LVDS Pair 0">
+            <graphics pos="(425.94,182.59)" angle="0" flipping="0" hidden="0" tOrigin="(80.00,40.00)"/>
+        </item>
+        <item id="64" caption="LVDS Pair 1">
+            <graphics pos="(422.47,-41.03)" angle="0" flipping="0" hidden="0" tOrigin="(80.00,40.00)"/>
+        </item>
+        <item id="65" caption="LVDS Pair 2">
+            <graphics pos="(421.01,-266.89)" angle="0" flipping="0" hidden="0" tOrigin="(80.00,40.00)"/>
+        </item>
+        <item id="66" caption="User OTP Data">
+            <graphics pos="(-552.02,-416.12)" angle="0" flipping="0" hidden="0" tOrigin="(25.00,40.00)"/>
+        </item>
+        <wire output="14" input="23" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="0" wireText="NET0" wireState="0">
+            <points>(-517.00,-178.00); (-517.00,-133.00)</points>
+        </wire>
+        <wire output="26" input="64" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="1" wireText="NET1" wireState="0">
+            <points>(-472.00,-133.00); (-472.00,-178.00)</points>
+        </wire>
+        <wire output="27" input="62" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="2" wireText="NET2" wireState="0">
+            <points>(-502.00,-133.00); (-502.00,-178.00)</points>
+        </wire>
+        <wire output="28" input="63" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="3" wireText="NET3" wireState="0">
+            <points>(-487.00,-133.00); (-487.00,-178.00)</points>
+        </wire>
+        <wire output="29" input="65" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="4" wireText="NET4" wireState="0">
+            <points>(-457.00,-133.00); (-457.00,-178.00)</points>
+        </wire>
+        <wire output="30" input="66" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="5" wireText="NET5" wireState="0">
+            <points>(-443.00,-133.00); (-443.00,-178.00)</points>
+        </wire>
+        <wire output="31" input="69" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="6" wireText="NET6" wireState="0">
+            <points>(-404.00,-133.00); (-404.00,-178.00)</points>
+        </wire>
+        <wire output="32" input="67" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="7" wireText="NET7" wireState="0">
+            <points>(-430.00,-133.00); (-430.00,-178.00)</points>
+        </wire>
+        <wire output="33" input="70" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="8" wireText="NET8" wireState="0">
+            <points>(-391.00,-133.00); (-391.00,-178.00)</points>
+        </wire>
+        <wire output="34" input="68" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="9" wireText="NET9" wireState="0">
+            <points>(-417.00,-133.00); (-417.00,-178.00)</points>
+        </wire>
+        <wire output="35" input="71" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="10" wireText="NET10" wireState="0">
+            <points>(-378.00,-133.00); (-378.00,-178.00)</points>
+        </wire>
+        <wire output="36" input="72" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="11" wireText="NET11" wireState="0">
+            <points>(-365.00,-133.00); (-365.00,-178.00)</points>
+        </wire>
+        <wire output="37" input="73" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="12" wireText="NET12" wireState="0">
+            <points>(-352.00,-133.00); (-352.00,-178.00)</points>
+        </wire>
+        <wire output="15" input="24" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="13" wireText="NET13" wireState="0">
+            <points>(-487.00,505.00); (-487.00,458.00)</points>
+        </wire>
+        <wire output="38" input="76" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="14" wireText="NET14" wireState="0">
+            <points>(-442.00,458.00); (-442.00,505.00)</points>
+        </wire>
+        <wire output="39" input="74" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="15" wireText="NET15" wireState="0">
+            <points>(-472.00,458.00); (-472.00,505.00)</points>
+        </wire>
+        <wire output="40" input="75" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="16" wireText="NET16" wireState="0">
+            <points>(-457.00,458.00); (-457.00,505.00)</points>
+        </wire>
+        <wire output="41" input="77" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="17" wireText="NET17" wireState="0">
+            <points>(-427.00,458.00); (-427.00,505.00)</points>
+        </wire>
+        <wire output="42" input="78" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="18" wireText="NET18" wireState="0">
+            <points>(-413.00,458.00); (-413.00,505.00)</points>
+        </wire>
+        <wire output="43" input="81" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="19" wireText="NET19" wireState="0">
+            <points>(-374.00,458.00); (-374.00,505.00)</points>
+        </wire>
+        <wire output="44" input="79" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="20" wireText="NET20" wireState="0">
+            <points>(-400.00,458.00); (-400.00,505.00)</points>
+        </wire>
+        <wire output="45" input="82" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="21" wireText="NET21" wireState="0">
+            <points>(-361.00,458.00); (-361.00,505.00)</points>
+        </wire>
+        <wire output="46" input="80" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="22" wireText="NET22" wireState="0">
+            <points>(-387.00,458.00); (-387.00,505.00)</points>
+        </wire>
+        <wire output="47" input="83" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="23" wireText="NET23" wireState="0">
+            <points>(-348.00,458.00); (-348.00,505.00)</points>
+        </wire>
+        <wire output="48" input="84" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="24" wireText="NET24" wireState="0">
+            <points>(-335.00,458.00); (-335.00,505.00)</points>
+        </wire>
+        <wire output="49" input="85" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="25" wireText="NET25" wireState="0">
+            <points>(-322.00,458.00); (-322.00,505.00)</points>
+        </wire>
+        <wire output="16" input="25" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="26" wireText="NET26" wireState="0">
+            <points>(21.00,-178.00); (21.00,-133.00)</points>
+        </wire>
+        <wire output="50" input="88" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="27" wireText="NET27" wireState="0">
+            <points>(-24.00,-133.00); (-24.00,-178.00)</points>
+        </wire>
+        <wire output="51" input="86" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="28" wireText="NET28" wireState="0">
+            <points>(6.00,-133.00); (6.00,-178.00)</points>
+        </wire>
+        <wire output="52" input="87" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="29" wireText="NET29" wireState="0">
+            <points>(-9.00,-133.00); (-9.00,-178.00)</points>
+        </wire>
+        <wire output="53" input="89" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="30" wireText="NET30" wireState="0">
+            <points>(-39.00,-133.00); (-39.00,-178.00)</points>
+        </wire>
+        <wire output="54" input="90" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="31" wireText="NET31" wireState="0">
+            <points>(-53.00,-133.00); (-53.00,-178.00)</points>
+        </wire>
+        <wire output="55" input="93" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="32" wireText="NET32" wireState="0">
+            <points>(-92.00,-133.00); (-92.00,-178.00)</points>
+        </wire>
+        <wire output="56" input="91" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="33" wireText="NET33" wireState="0">
+            <points>(-66.00,-133.00); (-66.00,-178.00)</points>
+        </wire>
+        <wire output="57" input="94" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="34" wireText="NET34" wireState="0">
+            <points>(-105.00,-133.00); (-105.00,-178.00)</points>
+        </wire>
+        <wire output="58" input="92" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="35" wireText="NET35" wireState="0">
+            <points>(-79.00,-133.00); (-79.00,-178.00)</points>
+        </wire>
+        <wire output="59" input="95" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="36" wireText="NET36" wireState="0">
+            <points>(-118.00,-133.00); (-118.00,-178.00)</points>
+        </wire>
+        <wire output="60" input="96" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="37" wireText="NET37" wireState="0">
+            <points>(-131.00,-133.00); (-131.00,-178.00)</points>
+        </wire>
+        <wire output="61" input="97" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="38" wireText="NET38" wireState="0">
+            <points>(-144.00,-133.00); (-144.00,-178.00)</points>
+        </wire>
+        <wire output="17" input="26" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="39" wireText="NET39" wireState="0">
+            <points>(-9.00,506.00); (-9.00,458.00)</points>
+        </wire>
+        <wire output="62" input="100" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="40" wireText="NET40" wireState="0">
+            <points>(-54.00,458.00); (-54.00,506.00)</points>
+        </wire>
+        <wire output="63" input="98" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="41" wireText="NET41" wireState="0">
+            <points>(-24.00,458.00); (-24.00,506.00)</points>
+        </wire>
+        <wire output="64" input="99" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="42" wireText="NET42" wireState="0">
+            <points>(-39.00,458.00); (-39.00,506.00)</points>
+        </wire>
+        <wire output="65" input="101" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="43" wireText="NET43" wireState="0">
+            <points>(-69.00,458.00); (-69.00,506.00)</points>
+        </wire>
+        <wire output="66" input="102" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="44" wireText="NET44" wireState="0">
+            <points>(-83.00,458.00); (-83.00,506.00)</points>
+        </wire>
+        <wire output="67" input="105" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="45" wireText="NET45" wireState="0">
+            <points>(-122.00,458.00); (-122.00,506.00)</points>
+        </wire>
+        <wire output="68" input="103" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="46" wireText="NET46" wireState="0">
+            <points>(-96.00,458.00); (-96.00,506.00)</points>
+        </wire>
+        <wire output="69" input="106" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="47" wireText="NET47" wireState="0">
+            <points>(-135.00,458.00); (-135.00,506.00)</points>
+        </wire>
+        <wire output="70" input="104" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="48" wireText="NET48" wireState="0">
+            <points>(-109.00,458.00); (-109.00,506.00)</points>
+        </wire>
+        <wire output="71" input="107" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="49" wireText="NET49" wireState="0">
+            <points>(-148.00,458.00); (-148.00,506.00)</points>
+        </wire>
+        <wire output="72" input="108" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="50" wireText="NET50" wireState="0">
+            <points>(-161.00,458.00); (-161.00,506.00)</points>
+        </wire>
+        <wire output="73" input="109" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="51" wireText="NET51" wireState="0">
+            <points>(-174.00,458.00); (-174.00,506.00)</points>
+        </wire>
+        <wire output="74" input="35" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="52" wireText="NET52" wireState="0">
+            <points>(-585.00,458.00); (-585.00,505.00)</points>
+        </wire>
+        <wire output="75" input="36" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="53" wireText="NET53" wireState="0">
+            <points>(-572.00,458.00); (-572.00,505.00)</points>
+        </wire>
+        <wire output="22" input="31" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="54" wireText="NET54" wireState="0">
+            <points>(-559.00,505.00); (-559.00,458.00)</points>
+        </wire>
+        <wire output="76" input="37" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="55" wireText="NET55" wireState="0">
+            <points>(89.00,458.00); (89.00,506.00)</points>
+        </wire>
+        <wire output="77" input="38" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="56" wireText="NET56" wireState="0">
+            <points>(76.00,458.00); (76.00,506.00)</points>
+        </wire>
+        <wire output="23" input="32" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="57" wireText="NET57" wireState="0">
+            <points>(63.00,506.00); (63.00,458.00)</points>
+        </wire>
+        <wire output="1" input="34" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="SLEEP CON" wireState="1">
+            <points/>
+        </wire>
+        <wire output="2" input="33" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="RESET CON" wireState="1">
+            <points/>
+        </wire>
+        <wire output="18" input="27" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="58" wireText="NET58" wireState="0">
+            <points>(-683.00,81.00); (-644.00,81.00)</points>
+        </wire>
+        <wire output="19" input="28" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="59" wireText="NET59" wireState="0">
+            <points>(-683.00,244.00); (-644.00,244.00)</points>
+        </wire>
+        <wire output="20" input="29" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="60" wireText="NET60" wireState="0">
+            <points>(183.00,81.00); (147.00,81.00)</points>
+        </wire>
+        <wire output="21" input="30" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="61" wireText="NET61" wireState="0">
+            <points>(183.00,244.00); (147.00,244.00)</points>
+        </wire>
+        <wire output="4" input="2" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="OSC_FOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="4" input="10" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="OSC_FOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="4" input="20" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="OSC_FOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="78" input="0" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="OSC_EN" wireState="1">
+            <points/>
+        </wire>
+        <wire output="79" input="1" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="OSC_MODE" wireState="1">
+            <points/>
+        </wire>
+        <wire output="5" input="42" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="6" input="43" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="5" input="47" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="6" input="48" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="5" input="52" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="6" input="53" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="5" input="57" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="6" input="58" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PD OUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="9" input="39" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="10" input="40" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="9" input="44" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="10" input="45" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="9" input="49" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="10" input="50" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="9" input="54" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="10" input="55" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0 FOUT1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="13" input="41" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL1 FOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="13" input="46" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL1 FOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="13" input="51" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL1 FOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="13" input="56" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL1 FOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="80" input="7" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL0_EN" wireState="1">
+            <points/>
+        </wire>
+        <wire output="81" input="18" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="PLL1_EN" wireState="1">
+            <points/>
+        </wire>
+        <wire output="82" input="61" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="DATA SOUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="83" input="59" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="DATA CS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="84" input="60" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="DATA SCLK" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="110" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="85" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="112" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="111" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="113" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="86" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="115" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="114" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="116" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="87" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="118" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="117" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="119" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="88" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="121" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="120" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="122" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="89" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="124" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="123" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="125" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="90" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="127" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="126" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="128" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="91" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="130" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="129" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="131" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="92" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="133" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="132" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="182" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="109" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="184" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="183" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="185" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="110" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="187" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="186" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="188" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="111" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="190" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="189" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="191" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="112" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="193" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="192" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="194" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="113" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="196" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="195" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="197" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="114" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="199" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="198" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="200" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="115" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="202" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="201" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="203" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="116" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="205" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="204" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="134" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="93" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="136" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="135" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="137" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="94" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="139" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="138" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="140" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="95" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="142" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="141" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="143" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="96" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="145" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="144" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="146" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="97" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="148" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="147" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="149" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="98" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="151" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="150" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="152" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="99" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="154" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="153" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="155" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="100" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="157" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="156" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="158" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="101" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="160" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="159" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="161" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="102" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="163" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="162" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="164" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="103" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="166" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="165" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="167" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="104" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="169" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="168" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="170" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="105" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="172" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="171" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="173" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="106" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="175" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="174" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="176" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="107" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="178" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="177" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="179" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="108" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="181" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="180" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="91" input="9" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="0">
+            <points>(-1253.00,370.00); (-1074.00,370.00); (-1074.00,285.00); (-1068.00,285.00)</points>
+        </wire>
+        <wire output="92" input="19" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="0">
+            <points>(-1253.00,480.00); (-1075.00,480.00); (-1075.00,460.00); (-1069.00,460.00)</points>
+        </wire>
+        <wire output="123" input="214" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="LVDS Pair 0" wireState="1">
+            <points/>
+        </wire>
+        <wire output="124" input="215" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="LVDS Pair 1" wireState="1">
+            <points/>
+        </wire>
+        <wire output="125" input="216" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="LVDS Pair 2" wireState="1">
+            <points/>
+        </wire>
+        <wire output="126" input="217" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="Rx OUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="126" input="218" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="Rx OUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="126" input="206" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="Rx OUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="126" input="207" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="Rx OUT" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="219" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="127" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="220" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="221" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="222" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="128" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="223" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="224" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="240" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="134" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="241" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="242" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="237" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="133" input="21" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="238" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="24" input="239" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE00 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="225" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="129" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="226" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="227" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="228" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="130" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="229" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="230" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="234" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="132" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="235" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="236" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="231" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="131" input="22" autoRouting="1" pen="#ff8000ff;3.00;1;32;128" lineType="4" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="232" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+        <wire output="25" input="233" autoRouting="1" pen="#ff8000ff;1.00;1;32;128" lineType="2" protected="1" CWLid="-1" wireText="TILE10 BUS" wireState="1">
+            <points/>
+        </wire>
+    </chip>
+    <emulatorConfiguration version="4" oldestCompatibleVersion="4">
+        <settings>
+            <autoApply value="0"/>
+            <platformSelector id="16"/>
+        </settings>
+        <platform id="0" friendlyName="GreenPAK DIP Development Platform">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="1" friendlyName="GreenPAK Advanced Development Platform">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="2" friendlyName="GreenPAK Pro Development Platform">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="4" friendlyName="GreenPAK Serial Debugger">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="5" friendlyName="GreenPAK Advanced Development Platform w/ Logic Level Adapter #1">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="6" friendlyName="ForgeFPGA Deluxe Development Platform">
+            <lastConfiguration modified="1">
+                <SaveEmulator Name="emulation">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector>1:0;2:0;3:0;4:0;5:0;6:0;7:0;8:0;9:0;10:0;11:0;12:0;13:0;14:0;15:0;16:0;17:0;18:0;19:0;20:0;21:0;22:0;41:0;42:0;43:0;44:0;45:0;46:0;47:0;48:0;49:0;50:0;51:0;52:0;53:0;54:0;55:0;56:0;57:0;58:0;61:0;62:0;1021:0;1022:0;1023:0;1033:0</ExpansionConnector>
+                    <TestPoints>
+                        <TPC ID="1" Type="2">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="73" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="2" Type="2">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="79" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="3" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="80" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="4" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="91" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="5" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="93" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="6" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="65" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="7" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="83" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="8" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="68" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="9" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="81" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="10" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="87" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="11" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="69" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="12" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="82" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="13" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="84" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="14" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="89" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="15" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="85" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="16" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="70" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="17" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="71" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="18" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="74" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="19" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="75" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="20" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="76" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="21" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="59" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="22" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="39" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="41" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="90" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="42" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="88" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="43" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="67" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="44" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="86" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="45" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="66" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="46" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="78" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="47" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="77" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="48" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="44" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="49" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="46" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="50" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="92" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="51" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="96" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="52" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="49" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="53" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="50" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="54" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="51" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="55" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="52" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="56" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="53" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="57" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="54" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="58" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="55" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="61" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="48" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="62" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="61" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="1021" Type="8">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="1.150000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="0" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e+03|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                        <TPC ID="1022" Type="8">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="3.300000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="2" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e+03|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                        <TPC ID="1023" Type="3">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="1033" Type="8">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="3.300000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="2" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e+03|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                    </TestPoints>
+                    <I2C slaveAddress="-1"/>
+                    <TestPointsOrder>1021;1022;1033</TestPointsOrder>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations>
+                <SaveEmulator Name="emulation">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector>1:0;2:0;3:0;4:0;5:0;6:0;7:0;8:0;9:0;10:0;11:0;12:0;13:0;14:0;15:0;16:0;17:0;18:0;19:0;20:0;21:0;22:0;41:0;42:0;43:0;44:0;45:0;46:0;47:0;48:0;49:0;50:0;51:0;52:0;53:0;54:0;55:0;56:0;57:0;58:0;61:0;62:0;1021:0;1022:0;1023:0;1033:0</ExpansionConnector>
+                    <TestPoints>
+                        <TPC ID="1" Type="2">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="73" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="2" Type="2">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="79" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="3" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="80" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="4" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="91" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="5" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="93" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="6" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="65" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="7" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="83" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="8" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="68" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="9" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="81" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="10" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="87" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="11" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="69" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="12" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="82" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="13" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="84" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="14" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="89" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="15" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="85" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="16" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="70" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="17" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="71" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="18" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="74" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="19" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="75" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="20" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="76" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="21" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="59" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="22" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="39" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="41" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="90" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="42" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="88" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="43" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="67" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="44" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="86" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="45" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="66" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="46" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="78" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="47" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="77" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="48" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="44" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="49" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="46" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="50" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="92" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="51" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="96" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="52" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="49" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="53" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="50" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="54" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="51" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="55" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="52" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="56" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="53" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="57" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="54" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="58" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="55" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="61" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="48" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="62" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="61" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="1021" Type="8">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="1.150000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="0" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e-01|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                        <TPC ID="1022" Type="8">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="3.300000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="2" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e-01|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                        <TPC ID="1023" Type="3">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="1033" Type="8">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="3.300000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="2" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e-01|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                    </TestPoints>
+                    <I2C slaveAddress="-1"/>
+                    <TestPointsOrder>1021;1022;1033</TestPointsOrder>
+                </SaveEmulator>
+            </savedConfigurations>
+        </platform>
+        <platform id="7" friendlyName="ForgeFPGA Evaluation Board">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="8" friendlyName="SLG51000 Demo Board">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="9" friendlyName="SLG51001 Demo Board">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="10" friendlyName="SLG51002 Demo Board">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="11" friendlyName="GreenPAK Serial Debugger">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="12" friendlyName="GreenPAK Lite Development Platform">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="13" friendlyName="HVPAK Demo Board">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="14" friendlyName="SLG47105V Training Board">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="15" friendlyName="Power GreenPAK Development Motherboard">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="16" friendlyName="ForgeFPGA Deluxe Development Platform Rev. 2.0">
+            <lastConfiguration modified="1">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector>1:0;2:0;3:0;4:0;5:0;6:0;7:0;8:0;9:0;10:0;11:0;12:0;13:0;14:0;15:0;16:0;17:0;18:0;19:0;20:0;21:0;22:0;41:0;42:0;43:0;44:0;45:0;46:0;47:0;48:0;49:0;50:0;51:0;52:0;53:0;54:0;55:0;56:0;57:0;58:0;61:0;62:0;1021:0;1022:0;1023:0;1033:0</ExpansionConnector>
+                    <TestPoints>
+                        <TPC ID="1" Type="2">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="73" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="2" Type="2">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="79" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="3" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="80" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="4" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="91" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="5" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="93" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="6" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="65" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="7" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="83" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="8" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="68" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="9" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="81" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="10" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="87" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="11" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="69" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="12" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="82" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="13" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="84" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="14" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="89" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="15" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="85" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="16" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="70" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="17" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="71" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="18" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="74" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="19" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="75" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="20" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="76" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="21" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="59" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="22" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="39" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="41" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="90" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="42" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="88" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="43" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="67" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="44" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="86" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="45" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="66" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="46" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="78" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="47" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="77" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="48" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="44" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="49" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="46" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="50" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="92" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="51" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="96" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="52" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="49" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="53" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="50" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="54" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="51" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="55" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="52" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="56" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="53" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="57" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="54" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="58" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="55" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="61" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="48" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="62" Type="1">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="61" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="1021" Type="12">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="1.150000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="0" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e-01|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                        <TPC ID="1022" Type="12">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="3.300000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="2" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e-01|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                        <TPC ID="1023" Type="3">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="1"/>
+                        </TPC>
+                        <TPC ID="1033" Type="12">
+                            <BaseOption LEDEnable="0" LEDInvertion="0" HotKey="-1" GlobalLink="0"/>
+                            <GeneratorOpt GenType="5">
+                                <constantVoltageGenerator v="3.300000e+00|4">
+                                    <abstractGenerator repeat="0" repeatCount="2" shownPeriod="0" startPoint="0.000000e+00|6" stopPoint="1.000000e-01|6" pauseState="0" prestartState="1" outputState="0" prestartDelay="0.000000e+00|5" endState="0" link="0" sync="0"/>
+                                </constantVoltageGenerator>
+                            </GeneratorOpt>
+                        </TPC>
+                    </TestPoints>
+                    <I2C slaveAddress="-1"/>
+                    <TestPointsOrder>1021;1022;1033</TestPointsOrder>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+        <platform id="17" friendlyName="HVPAK SLG47125 Demo Board">
+            <lastConfiguration modified="0">
+                <SaveEmulator Name="Default">
+                    <PowerOptions synced="0"/>
+                    <ExternalChipConnectionSource source="0"/>
+                    <PowerSwitch internalPower="1" externalPower="0"/>
+                    <ExpansionConnector></ExpansionConnector>
+                    <TestPoints/>
+                    <I2C slaveAddress="-1"/>
+                </SaveEmulator>
+            </lastConfiguration>
+            <savedConfigurations/>
+        </platform>
+    </emulatorConfiguration>
+    <fpga-data>
+        <!--Fpga project data-->
+        <project-data-version>6</project-data-version>
+        <oldestCompatibleVersion>3</oldestCompatibleVersion>
+        <settings>
+            <generateBitstream>
+                <MAX_CPU>16</MAX_CPU>
+                <additionalArguments></additionalArguments>
+                <clockConcurrentOptimization>true</clockConcurrentOptimization>
+                <highDensityIOPacking>false</highDensityIOPacking>
+                <highDensityPackingLogic>true</highDensityPackingLogic>
+                <maximumRoutingIterations>300</maximumRoutingIterations>
+                <placeAndTrialRoute>false</placeAndTrialRoute>
+                <placeAndTrialRouteIterationCount>20</placeAndTrialRouteIterationCount>
+                <timingAnalysisCorner>0</timingAnalysisCorner>
+            </generateBitstream>
+            <simulation>
+                <wavedumpOutputFormat>1</wavedumpOutputFormat>
+            </simulation>
+            <synthesize>
+                <additionalArguments></additionalArguments>
+                <flatten>true</flatten>
+                <keep>false</keep>
+                <noDSP>true</noDSP>
+                <useABC9>true</useABC9>
+            </synthesize>
+        </settings>
+        <openedTabs>
+            <openedTab>all_together_tb.vt</openedTab>
+            <openedTab>main.v</openedTab>
+            <openedTab>spi_master.v</openedTab>
+            <openedTab>I/O Planner</openedTab>
+            <openedTab>Floorplan</openedTab>
+        </openedTabs>
+        <pipelineStagesStates>
+            <pipelineStageState>
+                <pipelineStage>0</pipelineStage>
+                <pipelineState>1</pipelineState>
+            </pipelineStageState>
+            <pipelineStageState>
+                <pipelineStage>1</pipelineStage>
+                <pipelineState>1</pipelineState>
+            </pipelineStageState>
+        </pipelineStagesStates>
+        <modules>
+            <scr>
+                <module filename="main.v"/>
+                <module filename="simple_spi.v"/>
+            </scr>
+            <lib>
+                <module filename="spi_master.v"/>
+            </lib>
+            <sim>
+                <module filename="all_together_tb.vt"/>
+            </sim>
+            <netlists/>
+            <timing-constraints/>
+        </modules>
+        <io-spec-tool>
+            <records filter="254" filter1="190">
+                <record id="CLK_t[0:0]_N_out0">
+                    <port-name>i_clk_m</port-name>
+                </record>
+                <record id="CLK_t[0:0]_S_in0">
+                    <port-name>i_clk_m</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[0:26]_out0">
+                    <port-name>postdiv_mode[0]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[0:26]_out1">
+                    <port-name>postdiv_mode[1]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[0:27]_out0">
+                    <port-name>postdiv_mode[2]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[0:29]_out0">
+                    <port-name>postdiv_enable</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[10:30]_out0">
+                    <port-name>bram_rd_clk_inv</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[10:30]_out1">
+                    <port-name>bram_rd_clk_en</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[11:30]_in0">
+                    <port-name>bram_rd_bus[0]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[11:30]_in1">
+                    <port-name>bram_rd_bus[1]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[11:30]_out0">
+                    <port-name>bram_addr_bus[0]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[11:30]_out1">
+                    <port-name>bram_addr_bus[1]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[12:30]_in0">
+                    <port-name>bram_rd_bus[2]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[12:30]_in1">
+                    <port-name>bram_rd_bus[3]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[12:30]_out0">
+                    <port-name>bram_addr_bus[2]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[12:30]_out1">
+                    <port-name>bram_addr_bus[3]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[13:30]_in0">
+                    <port-name>bram_rd_bus[4]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[13:30]_in1">
+                    <port-name>bram_rd_bus[5]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[13:30]_out0">
+                    <port-name>bram_addr_bus[4]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[13:30]_out1">
+                    <port-name>bram_addr_bus[5]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[14:30]_in0">
+                    <port-name>bram_rd_bus[6]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[14:30]_in1">
+                    <port-name>bram_rd_bus[7]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[14:30]_out0">
+                    <port-name>bram_addr_bus[6]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[14:30]_out1">
+                    <port-name>bram_addr_bus[7]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[15:30]_out0">
+                    <port-name>bram_addr_bus[8]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[1:0]_in0">
+                    <port-name>x_coord[0]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[1:0]_out1">
+                    <port-name>stick_output_enable[0]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[1:1]_in0">
+                    <port-name>y_coord[0]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[1:1]_out1">
+                    <port-name>stick_output_enable[4]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[2:0]_in1">
+                    <port-name>x_coord[1]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[2:1]_in1">
+                    <port-name>y_coord[1]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[31:0]_out0">
+                    <port-name>clk_mode</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[31:0]_out1">
+                    <port-name>clk_enable</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[3:0]_out0">
+                    <port-name>stick_output_enable[1]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[3:1]_out0">
+                    <port-name>stick_output_enable[5]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[4:0]_in0">
+                    <port-name>x_coord[2]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[4:0]_out1">
+                    <port-name>stick_output_enable[2]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[4:1]_in0">
+                    <port-name>y_coord[2]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[4:1]_out1">
+                    <port-name>stick_output_enable[6]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[5:0]_in1">
+                    <port-name>x_coord[3]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[5:1]_in1">
+                    <port-name>y_coord[3]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[6:0]_out0">
+                    <port-name>stick_output_enable[3]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[6:1]_out0">
+                    <port-name>stick_output_enable[7]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[8:30]_out0">
+                    <port-name>bram_en</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[8:30]_out1">
+                    <port-name>bram_rd_en</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[9:30]_out0">
+                    <port-name>bram_bus_width[0]</port-name>
+                </record>
+                <record id="IOB_t[0:0]_xy[9:30]_out1">
+                    <port-name>bram_bus_width[1]</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[25:0]_in0">
+                    <port-name>i_rst_m</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[25:0]_out1">
+                    <port-name>rst_input_enable</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[25:1]_out0">
+                    <port-name>o_sck_m</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[25:1]_out1">
+                    <port-name>matrix_output_enable[3]</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[27:0]_out0">
+                    <port-name>matrix_output_enable[0]</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[28:0]_out0">
+                    <port-name>o_mosi_m</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[28:0]_out1">
+                    <port-name>matrix_output_enable[1]</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[29:0]_out1">
+                    <port-name>o_ss_n_m</port-name>
+                </record>
+                <record id="IOB_t[1:0]_xy[30:0]_out0">
+                    <port-name>matrix_output_enable[2]</port-name>
+                </record>
+            </records>
+        </io-spec-tool>
+        <macrocell-mode-data>
+            <scene-data>
+                <scene-width>32767</scene-width>
+                <scene-height>32767</scene-height>
+                <scene-snapToGrid>1</scene-snapToGrid>
+            </scene-data>
+            <macrocells-data>
+                <macrocell>
+                    <macrocell-id>18</macrocell-id>
+                    <macrocell-type>2</macrocell-type>
+                    <macrocell-title>IN</macrocell-title>
+                    <macrocell-name>input18</macrocell-name>
+                    <macrocell-posx>-440</macrocell-posx>
+                    <macrocell-posy>-240</macrocell-posy>
+                    <macrocell-input-ports/>
+                    <macrocell-output-ports>
+                        <port>
+                            <port-id>19</port-id>
+                            <port-index>0</port-index>
+                            <port-position>6</port-position>
+                            <port-is-multiconnect>1</port-is-multiconnect>
+                            <port-direction>2</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>1</port-adjacent-ports-num>
+                        </port>
+                    </macrocell-output-ports>
+                </macrocell>
+                <macrocell>
+                    <macrocell-id>20</macrocell-id>
+                    <macrocell-type>2</macrocell-type>
+                    <macrocell-title>IN</macrocell-title>
+                    <macrocell-name>input20</macrocell-name>
+                    <macrocell-posx>-440</macrocell-posx>
+                    <macrocell-posy>0</macrocell-posy>
+                    <macrocell-input-ports/>
+                    <macrocell-output-ports>
+                        <port>
+                            <port-id>21</port-id>
+                            <port-index>0</port-index>
+                            <port-position>6</port-position>
+                            <port-is-multiconnect>1</port-is-multiconnect>
+                            <port-direction>2</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>1</port-adjacent-ports-num>
+                        </port>
+                    </macrocell-output-ports>
+                </macrocell>
+                <macrocell>
+                    <macrocell-id>22</macrocell-id>
+                    <macrocell-type>4</macrocell-type>
+                    <macrocell-title>NOT Gate</macrocell-title>
+                    <macrocell-name>not22</macrocell-name>
+                    <macrocell-posx>-100</macrocell-posx>
+                    <macrocell-posy>0</macrocell-posy>
+                    <macrocell-input-ports>
+                        <port>
+                            <port-id>23</port-id>
+                            <port-index>0</port-index>
+                            <port-position>5</port-position>
+                            <port-is-multiconnect>0</port-is-multiconnect>
+                            <port-direction>1</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>1</port-adjacent-ports-num>
+                        </port>
+                    </macrocell-input-ports>
+                    <macrocell-output-ports>
+                        <port>
+                            <port-id>24</port-id>
+                            <port-index>0</port-index>
+                            <port-position>6</port-position>
+                            <port-is-multiconnect>1</port-is-multiconnect>
+                            <port-direction>2</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>1</port-adjacent-ports-num>
+                        </port>
+                    </macrocell-output-ports>
+                </macrocell>
+                <macrocell>
+                    <macrocell-id>25</macrocell-id>
+                    <macrocell-type>8</macrocell-type>
+                    <macrocell-title>NAND Gate</macrocell-title>
+                    <macrocell-name>nand25</macrocell-name>
+                    <macrocell-posx>240</macrocell-posx>
+                    <macrocell-posy>-200</macrocell-posy>
+                    <macrocell-input-ports>
+                        <port>
+                            <port-id>26</port-id>
+                            <port-index>0</port-index>
+                            <port-position>5</port-position>
+                            <port-is-multiconnect>0</port-is-multiconnect>
+                            <port-direction>1</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>2</port-adjacent-ports-num>
+                        </port>
+                        <port>
+                            <port-id>27</port-id>
+                            <port-index>1</port-index>
+                            <port-position>5</port-position>
+                            <port-is-multiconnect>0</port-is-multiconnect>
+                            <port-direction>1</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>2</port-adjacent-ports-num>
+                        </port>
+                    </macrocell-input-ports>
+                    <macrocell-output-ports>
+                        <port>
+                            <port-id>28</port-id>
+                            <port-index>0</port-index>
+                            <port-position>6</port-position>
+                            <port-is-multiconnect>1</port-is-multiconnect>
+                            <port-direction>2</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>1</port-adjacent-ports-num>
+                        </port>
+                    </macrocell-output-ports>
+                </macrocell>
+                <macrocell>
+                    <macrocell-id>29</macrocell-id>
+                    <macrocell-type>3</macrocell-type>
+                    <macrocell-title>OUT</macrocell-title>
+                    <macrocell-name>output29</macrocell-name>
+                    <macrocell-posx>640</macrocell-posx>
+                    <macrocell-posy>-140</macrocell-posy>
+                    <macrocell-input-ports>
+                        <port>
+                            <port-id>30</port-id>
+                            <port-index>0</port-index>
+                            <port-position>5</port-position>
+                            <port-is-multiconnect>0</port-is-multiconnect>
+                            <port-direction>1</port-direction>
+                            <port-type>0</port-type>
+                            <port-adjacent-ports-num>1</port-adjacent-ports-num>
+                        </port>
+                    </macrocell-input-ports>
+                    <macrocell-output-ports/>
+                </macrocell>
+            </macrocells-data>
+            <wires-data>
+                <wire>
+                    <wire-id>31</wire-id>
+                    <wire-start-port-id>19</wire-start-port-id>
+                    <wire-end-port-id>26</wire-end-port-id>
+                    <wire-name>wire31</wire-name>
+                </wire>
+                <wire>
+                    <wire-id>32</wire-id>
+                    <wire-start-port-id>21</wire-start-port-id>
+                    <wire-end-port-id>23</wire-end-port-id>
+                    <wire-name>wire32</wire-name>
+                </wire>
+                <wire>
+                    <wire-id>33</wire-id>
+                    <wire-start-port-id>24</wire-start-port-id>
+                    <wire-end-port-id>27</wire-end-port-id>
+                    <wire-name>wire33</wire-name>
+                </wire>
+                <wire>
+                    <wire-id>34</wire-id>
+                    <wire-start-port-id>28</wire-start-port-id>
+                    <wire-end-port-id>30</wire-end-port-id>
+                    <wire-name>wire34</wire-name>
+                </wire>
+            </wires-data>
+        </macrocell-mode-data>
+        <!--Fpga project data END-->
+    </fpga-data>
+    <projectData>
+        <specs>
+            <lastModify lastModifyValue="14.08.2025 12:24:03"/>
+            <vddSpecs vddMin="1.15" vddTyp="1.15" vddMax="1.15"/>
+            <vdd2ASpecs min="3.3" typ="3.3" max="3.3"/>
+            <vdd2BSpecs min="3.3" typ="3.3" max="3.3"/>
+            <tempSpecs tempMin="-2" tempTyp="20" tempMax="40"/>
+        </specs>
+        <projectDataFields>
+            <textLineDataField name="Customer Name" id="2" text=""/>
+            <textLineDataField name="Customer Project Name" id="3" text=""/>
+            <textLineDataField name="Customer Project Number" id="4" text=""/>
+            <textLineDataField name="Customer Version Number" id="5" text=""/>
+            <multiTextLineDataField>
+                <textLineDataField name="Notes" id="6" text=""/>
+            </multiTextLineDataField>
+        </projectDataFields>
+    </projectData>
+    <i2cTool>
+        <i2cDebugger version="1"/>
+        <i2cStepper version="1" rowCount="0"/>
+        <i2cRegsTable version="1" tabCount="0"/>
+    </i2cTool>
+<logicAnalyzer>
+    <metadata>
+        <autosavePreset>1</autosavePreset>
+        <currentPreset>1</currentPreset>
+        <version>3</version>
+    </metadata>
+    <presetList>
+        <preset0>
+            <markers>
+                <trigTime>0</trigTime>
+            </markers>
+            <measurements>
+                <item0>
+                    <channel>-1</channel>
+                    <marker1>-1</marker1>
+                    <marker2>-1</marker2>
+                </item0>
+            </measurements>
+            <name>Default</name>
+            <plotsOrder>0, 1, 2, 3, 4, 5, 13, 14, 6, 7, 15, 16, 17, 8, 9, 10, 11, 12, 40, 41, 47, 46, 49, 48, 51, 50, 42, 43, 44, 45, 52, 53, 54, 55, 18, 19, 21, 56, 57, 60, 61, 20</plotsOrder>
+            <sampleRate>3</sampleRate>
+            <startMode>0</startMode>
+            <trigMode>0</trigMode>
+            <trigPos>1000</trigPos>
+            <trigType>0</trigType>
+            <viewOptions>111111111111111111111111111111111111111111</viewOptions>
+        </preset0>
+        <preset1>
+            <markers>
+                <trigTime>0</trigTime>
+            </markers>
+            <measurements>
+                <item0>
+                    <channel>-1</channel>
+                    <marker1>-1</marker1>
+                    <marker2>-1</marker2>
+                </item0>
+            </measurements>
+            <name>Autosaved  @13:45:02</name>
+            <plotsOrder>0, 1, 2, 3, 4, 5, 13, 14, 6, 7, 15, 16, 17, 8, 9, 10, 11, 12, 40, 41, 47, 46, 49, 48, 51, 50, 42, 43, 44, 45, 52, 53, 54, 55, 18, 19, 21, 56, 57, 60, 61, 20</plotsOrder>
+            <protocolAnalyzers>
+                <analyzer0>
+                    <settings>
+                        <bitOrder>0</bitOrder>
+                        <cpha>0</cpha>
+                        <cpol>0</cpol>
+                        <cs>9</cs>
+                        <cspol>0</cspol>
+                        <miso>-1</miso>
+                        <mosi>18</mosi>
+                        <sclk>10</sclk>
+                        <wordSize>16</wordSize>
+                    </settings>
+                    <type>spi</type>
+                    <userLabel></userLabel>
+                </analyzer0>
+            </protocolAnalyzers>
+            <sampleRate>15</sampleRate>
+            <startMode>0</startMode>
+            <trigMode>1</trigMode>
+            <trigPos>401</trigPos>
+            <trigType>0</trigType>
+            <triggerList>
+                <trigger0>
+                    <channel>9</channel>
+                    <type>2</type>
+                </trigger0>
+            </triggerList>
+            <viewOptions>000111111111111111111000000000000000000000</viewOptions>
+        </preset1>
+    </presetList>
+</logicAnalyzer>
+
+</GPDProject>

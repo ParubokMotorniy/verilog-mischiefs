@@ -1,0 +1,69 @@
+`timescale 1ns/1ps
+
+module main_tb;
+
+  reg clk = 0;
+  reg rst = 1;
+  reg [3:0] x = 4'd7;
+  reg [3:0] y = 4'd7;
+  reg [7:0] mock_rd_bus;
+  wire mock_rd_en;
+  wire mock_rd_clk_en;
+
+  wire mosi, sck, ss_n;
+
+  // clock
+  always #9384 clk = ~clk;
+
+  always begin
+    #25_000_000 x = $random;
+    $display("Time=%0t, x value=%d", $time, x);
+  end
+  
+  always begin 
+    #10_000_000 y = $random;
+    $display("Time=%0t, y value=%d", $time, y);
+  end
+
+  always @(posedge clk) begin
+  	if(mock_rd_en == 1 && mock_rd_clk_en == 1) mock_rd_bus = $random;
+  end
+
+  // DUT
+  main  #(
+        .CPOL(0),
+        .CPHA(0),
+        .WIDTH(16),
+        .LSB(0),
+        .BAUD_RATE(8)
+    )  dut (
+    .i_clk_m(clk),
+    .i_rst_m(rst),
+    .i_miso_m(1'b0), // no MISO
+    .o_mosi_m(mosi),
+    .o_sck_m(sck),
+    .o_ss_n_m(ss_n),
+    .x_coord(x),
+    .y_coord(y),
+    .bram_rd_clk_en(mock_rd_clk_en),
+    .bram_rd_en(mock_rd_en),
+    .bram_addr_bus(),
+    .bram_rd_bus(mock_rd_bus),
+    .stick_output_enable(),
+    .matrix_output_enable(),
+    .clk_enable(),
+    .clk_mode(),
+    .rst_input_enable(),
+    .postdiv_mode(),
+    .postdiv_enable()
+  );
+
+  // dump waves
+  initial begin
+    $dumpfile("main_tb.vcd");
+    $dumpvars(0, main_tb);
+    #10000 rst = 0;
+    #1000000000 $finish;
+  end
+
+endmodule
