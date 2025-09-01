@@ -9,4 +9,6 @@ At the heart of the set up is SLG47921V FPGA chip, that reads joystick input fro
 
 Prior to the start of the game, the chip loads a bitmap-image from BRAM and sends it to the matrix.
 
+*Note:* the project is intended to be built with Go Configure Software Hub 6.49. For other versions the correctness of operation is not guaranteed.
+
 ![20250829_184949](https://github.com/user-attachments/assets/d59582f3-8657-4f3d-8ad6-d9b4ab80c880)
